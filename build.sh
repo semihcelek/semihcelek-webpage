@@ -11,4 +11,4 @@ else
 fi
 
 echo "Copy public to nginx folder"
-rm -rf /usr/share/nginx/html/public && cp $(pwd)/public /usr/share/nginx/html
+rm -rf /usr/share/nginx/html/public && cp public /usr/share/nginx/html
