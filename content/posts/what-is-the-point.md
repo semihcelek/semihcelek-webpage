@@ -1,7 +1,7 @@
 ---
 title: "What Is the Point"
 date: 2020-09-03T11:39:13+03:00
-draft: true
+draft: false
 authour: "Semih Celek"
 ---
 
