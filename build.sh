@@ -11,4 +11,4 @@ else
 fi
 
 echo "Copy public to nginx folder"
-   cp -R -f public /var/www/cabin
+  sudo cp -R -f public/* /var/www/cabin && sudo rm -rf public
