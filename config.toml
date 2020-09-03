@@ -184,7 +184,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "semihcelek0@hotmail.com"
+    a-email = "mailto:semihcelek0@hotmail.com"
     e-linkedin = "https://www.linkedin.com/in/m-semih-%C3%A7elek-94738119a/"
     g-github = "https://github.com/semihcelek"
 
