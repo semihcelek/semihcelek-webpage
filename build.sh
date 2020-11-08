@@ -4,10 +4,10 @@ then
    echo "Removing Existing PublicFolder..."
    rm -rf public
    echo "Building Hugo Site..."
-   hugo -D
+   hugo 
 else
   echo "Building Hugo Site..."
-  hugo -D
+  hugo 
 fi
 
 echo "Copy public to nginx folder"
