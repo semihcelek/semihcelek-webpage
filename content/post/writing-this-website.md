@@ -1,7 +1,7 @@
 ---
 title: "Writing This Website"
 date: 2020-09-30T19:12:01+03:00
-draft: true
+draft: false
 authour: "Semih Celek"
 tags: ["hugo", "bash-script", "nginx", "vps", "website"]
 ---
