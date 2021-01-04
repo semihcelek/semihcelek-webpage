@@ -9,11 +9,13 @@ The site mainly contains writings and small projects for Cet201 lecture.
 
     The site is deployed to nginx webserver on vps server.
 
-###In order to build project:
+### In order to build project:
 ```bash
     hugo  
 ```
-###Dependincies:
+### Dependincies:
+    
     hugo
+    
     evenTheme
 
